@@ -1,6 +1,6 @@
 # 简历预览
 
-[我的简历](https://HaoChenxin.github.io "前往预览")
+[我的简历,点击前往预览](https://HaoChenxin.github.io "前往预览")
 
 * 熟练使用 `html5` , `css3` , `scss`, `less` 完成页面搭建
 * 熟练使用原生 `javascript` , `es6`
