@@ -24,15 +24,10 @@
 ### 你可以：
 
 ```
-npm install
-
-```
-```javascript
-npm run dev
-
-```
-```javascript
-npm run generate
+npm install   //下载依赖
+npm run dev   //启动项目
+npm run generate    //项目打包发布
 
 
-#### 如果觉的有用，请点个star
+
+## 如果觉的有用，请点个star
