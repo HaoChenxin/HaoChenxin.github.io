@@ -24,7 +24,6 @@
 ### 你可以：
 
 ```
-```javascript
 npm install
 
 ```
