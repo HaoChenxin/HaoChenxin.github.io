@@ -24,9 +24,11 @@
 ### 你可以：
 
 ```
-npm install   //下载依赖
-npm run dev   //启动项目
-npm run generate    //项目打包发布
+/* 修改html
+ * 如需源码
+ * 请联系757513343@qq.com
+*/
+
 ```
 
 
